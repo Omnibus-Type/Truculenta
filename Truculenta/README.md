@@ -9,6 +9,8 @@ Truculenta is an irregular sans serif typeface based on mid-century lettering wo
 Language support: Afrikaans, Albanian, Azerbaijani, Basque, Bosnian, Catalan, Croatian, Czech, Danish, Dutch, English, Estonian, Faroese, Filipino, Finnish, French, Galician, German, Hungarian, Icelandic, Indonesian, Irish, Italian, Latvian, Lithuanian, Malay, Norwegian Bokmål, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swahili, Swedish, Turkish, Vietnamese, Welsh, Zulu.
 
 ![Sample of Truculenta Family.](Truculenta_Spec-1.png "Truculenta")
+![Sample of Truculenta Family.](Truculenta_Spec-3.png "Truculenta")
+![Sample of Truculenta Family.](Truculenta_Spec-3.png "Truculenta")
 
 
 #### Truculenta Family contains:

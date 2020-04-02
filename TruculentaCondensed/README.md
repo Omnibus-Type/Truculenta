@@ -1,17 +1,17 @@
-# Truculenta family
+# Truculenta Condensed family
 
 **Ivan Castro, Eva Sanz & Omnibus-Type Team**
 *SIL Open Font License 1.1,*
 *18 fonts (9 display, 9 text), +800 glyphs each variant.*
 
-Truculenta is an irregular sans serif typeface based on mid-century lettering works, yet with a little twist. This new quirky grotesque is a superfamily with variable font format in 3 axes: Width (wdth), Weight (wght) and Optical Size (opsz). Each variant has 1420 glyphs, with 2 sets of tabular figures (lining and old-style) and a set of 135 ligatures with support for 39 languages. This typeface is highly suitable for packaging, branding, book covers, illustrated editions, and film titles, since its personality may be more vibrant than the usual cold neo-grotesque. The text version has been specially designed to compose paragraphs in text sizes. Designed by Ivan Castro, Eva Sanz & Omnibus-Type Team
+Truculenta Condensed is an irregular sans serif typeface based on mid-century lettering works, yet with a little twist. This new quirky grotesque is a superfamily with variable font format in 3 axes: Width (wdth), Weight (wght) and Optical Size (opsz). Each variant has 1420 glyphs, with 2 sets of tabular figures (lining and old-style) and a set of 135 ligatures with support for 39 languages. This typeface is highly suitable for packaging, branding, book covers, illustrated editions, and film titles, since its personality may be more vibrant than the usual cold neo-grotesque. The text version has been specially designed to compose paragraphs in text sizes. Designed by Ivan Castro, Eva Sanz & Omnibus-Type Team
 
 Language support: Afrikaans, Albanian, Azerbaijani, Basque, Bosnian, Catalan, Croatian, Czech, Danish, Dutch, English, Estonian, Faroese, Filipino, Finnish, French, Galician, German, Hungarian, Icelandic, Indonesian, Irish, Italian, Latvian, Lithuanian, Malay, Norwegian Bokmål, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swahili, Swedish, Turkish, Vietnamese, Welsh, Zulu.
 
-![Sample of Truculenta Family.](Truculenta_Spec-1.png "Truculenta")
+![Sample of Truculenta Condensed Family.](Truculenta_Spec-1.png "Truculenta Condensed")
 
 
-#### Truculenta Family contains:
+#### Truculenta Condensed Family contains:
 * On display set
 * Thin
 * ExtraLight
@@ -47,12 +47,12 @@ Copyright (c) 2020, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
 ======
-## FONTLOG for the Truculenta fonts
+## FONTLOG for the Truculenta Condensed fonts
 
-This file provides detailed information on the Truculenta font software.  
-This information should be distributed along with the Truculenta fonts and any derivative works.
+This file provides detailed information on the Truculenta Condensed font software.  
+This information should be distributed along with the Truculenta Condensed fonts and any derivative works.
 
-### Truculenta is a typeface family that supports the following Unicode language range: 
+### Truculenta Condensed is a typeface family that supports the following Unicode language range: 
 
 * Basic Latin 					U+0020-U+007E
 * Latin-1 Supplement 				U+00A0-U+00FF
