@@ -79,17 +79,27 @@ This information should be distributed along with the Truculenta Condensed fonts
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
-**N:** **Yorlmar Campos**  
-**E:** omnibus.type@gmail.com  
-**W:** http://www.omnibus-type.com  
-**D:** Typeface development
+N: Yorlmar Campos
+E: omnibus.type@gmail.com
+W: http://www.omnibus-type.com
+D: Typeface development
 
-**N:** **Ivan Castro**  
-**E:** hola@ivancastro.es  
-**W:** http://www.ivancastro.es 
-**D:** Designer 
+N: Ivan Castro
+E: omnibus.type@gmail.com
+W: http://www.ivancastro.es 
+D: Designer
 
-**N:** **Eva Sanz**  
-**E:** eva@ladyeve.es.
-**W:** http://ladyeve.es  
-**D:** Designer 
+N: Pablo Cosgaya
+E: omnibus.type@gmail.com
+W: http://www.omnibus-type.com
+D: Typeface development
+
+N: Oscar Guerrero
+E: omnibus.type@gmail.com
+W: http://www.omnibus-type.com
+D: Typeface development
+
+N: Eva Sanz
+E: omnibus.type@gmail.com
+W: http://ladyeve.es
+D: Designer
