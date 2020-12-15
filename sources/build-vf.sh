@@ -14,7 +14,7 @@ VF_DIR=../fonts/variable
 rm -rf $VF_DIR
 mkdir -p $VF_DIR
 
-fontmake -g $fontName.glyphs --family-name $fontName -o variable --output-path $VF_DIR/$fontName[$axes].ttf
+fontmake -g $fontName.glyphs --family-name "$fontName" -o variable --output-path $VF_DIR/$fontName[$axes].ttf
 
 ##########################################
 
