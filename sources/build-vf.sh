@@ -1,6 +1,6 @@
-#!/bin/sh
+!/bin/sh
 set -e
-#source ../env/bin/activate
+source ../env/bin/activate
 
 fontName="Truculenta"
 axes="opsz,wdth,wght"
